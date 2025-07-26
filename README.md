@@ -1,13 +1,11 @@
 # Accurate-Cyber-Defense-Purple-Hat-Bot
 
+<img width="1536" height="1024" alt="5577a319-552a-4b6f-8155-032b711f233c" src="https://github.com/user-attachments/assets/a54c6bdc-7d4b-4ed2-9725-b1a6cea7c5bb" />
+
+
 Accurate-Cyber-Defense-Purple-Hat-Bot is a modern, intelligent cybersecurity tool built for real-time threat monitoring, detection, and alerting. 
 Designed with a focus on precision and performance, this bot empowers system administrators, DevOps teams, and security professionals with the tools 
 to stay ahead of evolving cyber threats — all from a clean, lightweight interface and instant Telegram notifications.
-
-
-<img width="1024" height="1536" alt="purple3" src="https://github.com/user-attachments/assets/bf1bbff3-69ef-4c50-a753-38419f3746e5" />
-
-
 
 
 **Features**
@@ -48,12 +46,14 @@ Whether you’re a beginner or a professional, setup is easy. Just plug in your 
 
 **📦 Installation**
 
-bash
+**bash**
 
 
 git clone https://github.com/Accurate-Cyber-Defense/Accurate-Cyber-Defense-Purple-Hat-Bot.git 
 
 cd Accurate-Cyber-Defense-Purple-Hat-Bot
+
+python3 Accurate-Cyber-Defense-Purple-Hat-Bot.py
 
 pip install -r requirements.txt
 
