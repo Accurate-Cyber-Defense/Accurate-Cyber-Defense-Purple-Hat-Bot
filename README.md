@@ -82,7 +82,7 @@ Edit
 Run the bot:
 
 
-python Accurate-Cyber-Defense/Accurate-Cyber-Defense-Purple-Hat-Bot.py
+python3 Accurate-Cyber-Defense-Purple-Hat-Bot.py
 
 **📸 Interface Preview**
 
