@@ -1,0 +1,28 @@
+{
+    "telegram": {
+        "enabled": true,
+        "token": "YOUR_TELEGRAM_BOT_TOKEN_HERE",
+        "chat_id": "YOUR_TELEGRAM_CHAT_ID_HERE"
+    },
+    "monitoring": {
+        "interface": "eth0"
+    },
+    "rules": {
+        "port_scan": {
+            "enabled": true,
+            "threshold": 20,
+            "time_window": 60 
+        },
+        "dos_attack": {
+            "enabled": true,
+            "threshold": 100,
+            "time_window": 1
+        },
+        "http_flood": {
+            "enabled": false,
+            "threshold": 50,
+            "time_window": 1
+        }
+    },
+    "alert_cooldown_seconds": 300
+}
