@@ -72,5 +72,8 @@ Stay safe. Stay informed. Stay accurate.
 **modification log**
  -Successfully broke the project across files
  -Made the config fetched from the config file 
- -Spent way to long optimizing things im to lazy to list..
+ -Made a propper requirements.txt because the installation called for one but there wasent one.
+ -Optimized it for expandability and modularity
+ -This Pullrequest IS SUPPOSED TO BE modified to fit the tool correctly
+ -Spent way to long optimizing things im to lazy to list.. it tbh just felt like 99.99% ai with how many things didnt line up, no offense
  -i kinda stopped logging what i was doing because i had to change a bit...
